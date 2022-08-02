@@ -1,2 +1,2 @@
-# pyhton-AI-CS
+# pyhton
 nothing is imposible
